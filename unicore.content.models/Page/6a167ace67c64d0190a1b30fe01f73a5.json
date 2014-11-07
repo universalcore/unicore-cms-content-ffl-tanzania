@@ -6,12 +6,12 @@
   "primary_category": "be7995c313744b4090407a17f3cc5816", 
   "created_at": "2014-09-15T09:17:04.132978+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-07T10:11:25.225885+00:00", 
+  "modified_at": "2014-11-07T10:12:17.757555+00:00", 
   "_version": {
     "package_version": "0.2.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,7 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
-  "position": 3, 
+  "position": 2, 
   "slug": "all-children-born-to-hiv-positive-mothers-or-to-parents-with-symptoms-signs-or-conditions-associated-with-hiv-infection-should-be-tested-for-hiv-if-found-to-be-hiv-positive-they-should-be-referred", 
   "uuid": "6a167ace67c64d0190a1b30fe01f73a5"
 }
